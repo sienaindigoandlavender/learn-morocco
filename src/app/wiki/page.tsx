@@ -27,71 +27,108 @@ export default async function WikiIndexPage() {
     byType.set(e.entryType, list);
   }
 
+  const usedTypes = ENTRY_TYPES.filter((t) => (byType.get(t)?.length ?? 0) > 0);
+
   return (
     <WikiShell>
-      <div className="flex items-start justify-between gap-4">
-        <h1 className="font-serif text-3xl text-stone-900">Wiki</h1>
-      </div>
-
-      <div className="mt-6">
-        <SearchBar />
-      </div>
+      <section className="mb-20 grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+        <div className="max-w-prose">
+          <h1 className="font-serif text-5xl leading-tight text-ink mb-6">
+            A slow, private wiki of Morocco — its places, people, and
+            traditions.
+          </h1>
+          <p className="text-lg text-secondary">
+            Notes-in-progress on concepts, places, persons, buildings,
+            dynasties, plants, crafts, ceremonies, dishes, languages,
+            regions, periods, and events. Single-author, kept slow,
+            cross-linked as it grows.
+          </p>
+        </div>
+        <div className="lg:pt-2">
+          <SearchBar />
+          <div className="mt-3 flex items-center justify-between font-mono text-meta uppercase tracking-wide text-tertiary">
+            <span>{all.length} {all.length === 1 ? "entry" : "entries"}</span>
+            <Link
+              href="/wiki/search"
+              className="hover:text-accent transition-colors"
+            >
+              Open search →
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {all.length === 0 ? (
-        <p className="mt-12 text-stone-600">
-          No entries yet. Add markdown files to{" "}
-          <code className="rounded bg-stone-100 px-1.5 py-0.5 text-sm">
-            content/wiki/
-          </code>{" "}
-          to start.
-        </p>
+        <section className="border-t border-border pt-12 max-w-prose">
+          <p className="text-secondary">
+            No entries yet. Add markdown files to{" "}
+            <code className="bg-codebg px-1.5 py-0.5 rounded font-mono text-sm">
+              content/wiki/
+            </code>{" "}
+            to start.
+          </p>
+        </section>
       ) : (
         <>
-          <section className="mt-10">
-            <h2 className="text-sm font-medium uppercase tracking-wide text-stone-500">
+          <section className="mb-20">
+            <h2 className="font-mono text-meta uppercase tracking-wide text-tertiary mb-6">
               Recent
             </h2>
-            <ul className="mt-3 divide-y divide-stone-100">
+            <ul className="divide-y divide-border">
               {recent.map((e) => (
-                <li key={e.slug} className="flex items-center justify-between gap-3 py-2">
-                  <Link href={`/wiki/${e.slug}`} className="font-serif text-lg text-stone-900 hover:underline">
+                <li
+                  key={e.slug}
+                  className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-1 md:gap-6 py-3"
+                >
+                  <Link
+                    href={`/wiki/${e.slug}`}
+                    className="font-serif text-lg text-ink hover:text-accent transition-colors"
+                  >
                     {e.title}
                   </Link>
-                  <div className="flex items-center gap-2 text-xs text-stone-500">
+                  <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
                     <EntryTypeBadge type={e.entryType} />
                     <VisibilityBadge value={e.visibility} />
-                    <span>{formatDate(e.updatedAt)}</span>
+                    <span className="font-mono text-meta uppercase tracking-wide text-tertiary">
+                      {formatDate(e.updatedAt)}
+                    </span>
                   </div>
                 </li>
               ))}
             </ul>
           </section>
 
-          <section className="mt-12">
-            <h2 className="text-sm font-medium uppercase tracking-wide text-stone-500">
+          <section className="mb-20">
+            <h2 className="font-mono text-meta uppercase tracking-wide text-tertiary mb-6">
               By type
             </h2>
-            <div className="mt-3 space-y-6">
-              {ENTRY_TYPES.map((t) => {
-                const list = byType.get(t);
-                if (!list || list.length === 0) return null;
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-8">
+              {usedTypes.map((t) => {
+                const list = byType.get(t)!;
                 return (
                   <div key={t}>
-                    <div className="flex items-center gap-2">
-                      <EntryTypeBadge type={t} />
-                      <span className="text-sm text-stone-500">{list.length}</span>
+                    <div className="flex items-baseline justify-between mb-2">
+                      <p className="font-serif text-xl text-ink capitalize">
+                        {t}
+                      </p>
+                      <span className="font-mono text-meta uppercase tracking-wide text-tertiary">
+                        {list.length}
+                      </span>
                     </div>
-                    <ul className="mt-2 ml-1 space-y-1">
+                    <ul className="space-y-1">
                       {list.slice(0, 5).map((e) => (
                         <li key={e.slug}>
-                          <Link href={`/wiki/${e.slug}`} className="text-stone-900 hover:underline">
+                          <Link
+                            href={`/wiki/${e.slug}`}
+                            className="text-secondary hover:text-accent transition-colors"
+                          >
                             {e.title}
                           </Link>
                         </li>
                       ))}
                     </ul>
                     {list.length > 5 && (
-                      <p className="mt-1 ml-1 text-xs text-stone-500">
+                      <p className="mt-2 font-mono text-meta uppercase tracking-wide text-tertiary">
                         + {list.length - 5} more
                       </p>
                     )}
@@ -99,6 +136,13 @@ export default async function WikiIndexPage() {
                 );
               })}
             </div>
+          </section>
+
+          <section className="border-t border-border pt-12 text-meta text-tertiary font-mono uppercase tracking-wide">
+            <p>
+              {all.length} {all.length === 1 ? "entry" : "entries"} ·{" "}
+              {usedTypes.length} {usedTypes.length === 1 ? "type" : "types"}
+            </p>
           </section>
         </>
       )}

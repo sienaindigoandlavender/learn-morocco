@@ -4,13 +4,25 @@ const config: Config = {
   content: ["./src/**/*.{ts,tsx}"],
   theme: {
     extend: {
+      colors: {
+        ink: "#0a0a0a",
+        secondary: "#525252",
+        tertiary: "#737373",
+        border: "#e5e5e5",
+        accent: "#b8543a",
+        codebg: "#fafafa",
+      },
       fontFamily: {
-        serif: ['"Source Serif 4"', '"Source Serif Pro"', 'Georgia', 'serif'],
-        sans: ['ui-sans-serif', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
-        mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'monospace'],
+        serif: ["var(--font-serif)", "Georgia", "serif"],
+        sans: ["var(--font-sans)", "system-ui", "sans-serif"],
+        mono: ["var(--font-mono)", "monospace"],
+      },
+      fontSize: {
+        meta: ["13px", { lineHeight: "1.5" }],
       },
       maxWidth: {
-        prose: '720px',
+        content: "1100px",
+        prose: "680px",
       },
     },
   },

@@ -16,32 +16,44 @@ export default async function SearchPage({
 
   return (
     <WikiShell>
-      <h1 className="font-serif text-3xl text-stone-900">Search</h1>
-      <div className="mt-4">
+      <div className="max-w-prose">
+        <p className="font-mono text-meta uppercase tracking-wide text-tertiary mb-3">
+          Search
+        </p>
+        <h1 className="font-serif text-5xl leading-tight text-ink mb-8">
+          Search the wiki
+        </h1>
         <SearchBar defaultValue={q} />
+
+        {q && (
+          <p className="mt-4 font-mono text-meta uppercase tracking-wide text-tertiary">
+            {results.length === 0
+              ? `No matches for "${q}"`
+              : `${results.length} match${results.length === 1 ? "" : "es"} for "${q}"`}
+          </p>
+        )}
       </div>
 
-      {q && (
-        <p className="mt-4 text-sm text-stone-500">
-          {results.length === 0
-            ? `No matches for “${q}”.`
-            : `${results.length} match${results.length === 1 ? "" : "es"} for “${q}”.`}
-        </p>
+      {results.length > 0 && (
+        <ul className="mt-10 space-y-8 max-w-prose">
+          {results.map((e) => (
+            <li key={e.slug}>
+              <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
+                <Link
+                  href={`/wiki/${e.slug}`}
+                  className="font-serif text-2xl text-ink hover:text-accent transition-colors"
+                >
+                  {e.title}
+                </Link>
+                <EntryTypeBadge type={e.entryType} />
+              </div>
+              <p className="mt-2 text-secondary">
+                {snippet(e.content, q)}
+              </p>
+            </li>
+          ))}
+        </ul>
       )}
-
-      <ul className="mt-6 space-y-6">
-        {results.map((e) => (
-          <li key={e.slug}>
-            <div className="flex items-center gap-2">
-              <Link href={`/wiki/${e.slug}`} className="font-serif text-lg text-stone-900 hover:underline">
-                {e.title}
-              </Link>
-              <EntryTypeBadge type={e.entryType} />
-            </div>
-            <p className="mt-1 text-sm text-stone-600">{snippet(e.content, q)}</p>
-          </li>
-        ))}
-      </ul>
     </WikiShell>
   );
 }

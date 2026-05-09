@@ -12,15 +12,28 @@ export default async function TagPage({ params }: { params: { tag: string } }) {
 
   return (
     <WikiShell>
-      <h1 className="font-serif text-3xl text-stone-900">#{params.tag}</h1>
-      <p className="mt-1 text-sm text-stone-500">
-        {entries.length} {entries.length === 1 ? "entry" : "entries"}
-      </p>
+      <div className="max-w-prose mb-10">
+        <p className="font-mono text-meta uppercase tracking-wide text-tertiary mb-3">
+          Tag
+        </p>
+        <h1 className="font-serif text-5xl leading-tight text-ink">
+          #{params.tag}
+        </h1>
+        <p className="mt-3 font-mono text-meta uppercase tracking-wide text-tertiary">
+          {entries.length} {entries.length === 1 ? "entry" : "entries"}
+        </p>
+      </div>
 
-      <ul className="mt-6 space-y-2">
+      <ul className="divide-y divide-border max-w-prose">
         {entries.map((e) => (
-          <li key={e.slug} className="flex items-center gap-2">
-            <Link href={`/wiki/${e.slug}`} className="text-stone-900 hover:underline">
+          <li
+            key={e.slug}
+            className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-1 md:gap-6 py-3"
+          >
+            <Link
+              href={`/wiki/${e.slug}`}
+              className="font-serif text-lg text-ink hover:text-accent transition-colors"
+            >
               {e.title}
             </Link>
             <EntryTypeBadge type={e.entryType} />

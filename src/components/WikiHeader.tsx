@@ -1,22 +1,39 @@
 import Link from "next/link";
 import { logout } from "@/app/wiki/login/actions";
 
+const navItems = [
+  { href: "/wiki", label: "Index" },
+  { href: "/wiki/search", label: "Search" },
+];
+
 export function WikiHeader() {
   return (
-    <header className="border-b border-stone-200">
-      <div className="mx-auto flex max-w-3xl items-center justify-between px-6 py-4">
-        <Link href="/wiki" className="font-serif text-lg text-stone-900">
+    <header className="border-b border-border">
+      <div className="max-w-content mx-auto px-6 py-6 flex items-center justify-between gap-6">
+        <Link href="/wiki" className="font-serif text-xl tracking-tight text-ink">
           Slow Morocco Wiki
         </Link>
-        <nav className="flex items-center gap-4 text-sm text-stone-600">
-          <Link href="/wiki" className="hover:text-stone-900">Home</Link>
-          <Link href="/wiki/search" className="hover:text-stone-900">Search</Link>
-          <form action={logout}>
-            <button type="submit" className="text-stone-500 hover:text-stone-900">
-              Sign out
-            </button>
-          </form>
-        </nav>
+        <div className="flex items-center gap-6">
+          <nav className="flex flex-wrap gap-x-6 gap-y-2 font-mono text-meta uppercase tracking-wide">
+            {navItems.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="text-secondary hover:text-accent transition-colors"
+              >
+                {item.label}
+              </Link>
+            ))}
+            <form action={logout}>
+              <button
+                type="submit"
+                className="font-mono text-meta uppercase tracking-wide text-secondary hover:text-accent transition-colors"
+              >
+                Sign out
+              </button>
+            </form>
+          </nav>
+        </div>
       </div>
     </header>
   );
