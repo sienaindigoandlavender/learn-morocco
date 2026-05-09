@@ -7,7 +7,13 @@ tags: [history, timeline, index]
 
 # A Timeline of Morocco
 
-The country has been continuously inhabited for at least ten thousand years. What follows is one way of cutting that history into legible periods. Each entry is a door into a more specific decoding.
+The country has been continuously inhabited for at least ten thousand years — and humans, in the wider sense, far longer than that. What follows is one way of cutting that history into legible periods. Each entry is a door into a more specific decoding.
+
+## Deep Prehistory (before c. 10,000 BCE)
+
+The oldest known *Homo sapiens* fossils in the world were found at Jebel Irhoud, west of Marrakesh — roughly 300,000 years old. Morocco is, on current evidence, the earliest documented home of our species.
+
+→ [[jebel-irhoud]]
 
 ## Pre-Islamic (before 700 CE)
 
@@ -71,4 +77,4 @@ Beyond the chronological cut, several threads run through the whole timeline:
 → [[amazigh-substrate]] — the underlying Berber civilization that all dynasties have ruled over
 → [[andalusi-inheritance]] — the cultural transmission from al-Andalus
 → [[trans-saharan-trade]] — the gold and salt routes that funded Moroccan empires
-→ [[jewish-morocco]] — the parallel Jewish history from antiquity through the diaspora
+→ [[jewish-morocco]] — the parallel Jewish history from antiquity through the diaspora, split between the *toshavim* (the ancient native community, [[jewish-morocco-toshavim]]) and the *megorashim* (the Sephardic exiles after 1492, [[jewish-morocco-megorashim]])
