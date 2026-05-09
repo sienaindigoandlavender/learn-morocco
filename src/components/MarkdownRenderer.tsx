@@ -17,8 +17,8 @@ export function MarkdownRenderer({ content }: { content: string }) {
                   href={href!}
                   className={
                     isBroken
-                      ? "text-red-600 underline decoration-red-300 hover:decoration-red-600"
-                      : "text-stone-900 underline decoration-stone-400 hover:decoration-stone-900"
+                      ? "text-accent border-b border-dashed border-accent hover:opacity-80"
+                      : "text-ink border-b border-accent hover:text-accent"
                   }
                 >
                   {children}
@@ -30,7 +30,7 @@ export function MarkdownRenderer({ content }: { content: string }) {
                 href={href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-stone-900 underline decoration-stone-400 hover:decoration-stone-900"
+                className="text-ink border-b border-accent hover:text-accent"
                 {...rest}
               >
                 {children}

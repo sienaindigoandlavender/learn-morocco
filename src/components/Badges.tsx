@@ -1,37 +1,43 @@
+import Link from "next/link";
 import {
-  ENTRY_TYPE_BADGE,
-  VISIBILITY_BADGE,
   type EntryType,
   type Visibility,
 } from "@/lib/wiki/types";
 
 export function EntryTypeBadge({ type }: { type: EntryType }) {
   return (
-    <span
-      className={`inline-block rounded px-2 py-0.5 text-xs font-medium ${ENTRY_TYPE_BADGE[type]}`}
-    >
+    <span className="inline-block font-mono text-meta uppercase tracking-wide text-tertiary">
       {type}
     </span>
   );
 }
 
 export function VisibilityBadge({ value }: { value: Visibility }) {
+  const label = value.replace("_", " ");
   return (
-    <span
-      className={`inline-block rounded px-2 py-0.5 text-xs font-medium ${VISIBILITY_BADGE[value]}`}
-    >
-      {value.replace("_", " ")}
+    <span className="inline-flex items-center gap-1.5 font-mono text-meta uppercase tracking-wide text-tertiary">
+      <span
+        aria-hidden
+        className={`inline-block h-1.5 w-1.5 rounded-full ${
+          value === "publishable"
+            ? "bg-accent"
+            : value === "internal_draft"
+              ? "bg-tertiary"
+              : "bg-border"
+        }`}
+      />
+      {label}
     </span>
   );
 }
 
 export function TagPill({ slug }: { slug: string }) {
   return (
-    <a
+    <Link
       href={`/wiki/tags/${slug}`}
-      className="inline-block rounded-full bg-stone-100 px-2.5 py-0.5 text-xs text-stone-700 hover:bg-stone-200"
+      className="inline-block font-mono text-meta uppercase tracking-wide text-secondary hover:text-accent transition-colors"
     >
       #{slug}
-    </a>
+    </Link>
   );
 }
