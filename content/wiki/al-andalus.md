@@ -2,7 +2,7 @@
 title: Al-Andalus
 type: concept
 visibility: private
-tags: [andalus, iberia, umayyad, taifa, almoravid, almohad, nasrid, timeline]
+tags: [andalus, iberia, umayyad, almoravid, almohad, nasrid, dynasties, conquest, refugees, medieval, timeline]
 ---
 
 # Al-Andalus

@@ -2,7 +2,7 @@
 title: Romans in Africa
 type: concept
 visibility: private
-tags: [rome, antiquity, africa, egypt, timeline]
+tags: [romans, africa, egypt, antiquity, christianity, timeline]
 ---
 
 # Romans in Africa

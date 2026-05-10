@@ -2,7 +2,7 @@
 title: Al-Andalus and the Maghreb
 type: concept
 visibility: private
-tags: [andalus, maghreb, morocco, gibraltar, refugees, dynasties, timeline]
+tags: [andalus, maghreb, morocco, gibraltar, refugees, moriscos, dynasties, medieval, early-modern, timeline]
 ---
 
 # Al-Andalus and the Maghreb

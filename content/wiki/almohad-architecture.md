@@ -2,7 +2,7 @@
 title: Almohad Architecture
 type: concept
 visibility: private
-tags: [almohad, architecture, morocco, andalus, ifriqiya, timeline]
+tags: [almohad, architecture, morocco, andalus, ifriqiya, dynasties, medieval, timeline]
 ---
 
 # Almohad Architecture

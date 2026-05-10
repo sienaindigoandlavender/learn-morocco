@@ -2,7 +2,7 @@
 title: Amazigh Timeline
 type: concept
 visibility: private
-tags: [amazigh, berber, timeline, index]
+tags: [amazigh, morocco, maghreb, language, identity, antiquity, medieval, modern, timeline]
 ---
 
 # Amazigh Timeline

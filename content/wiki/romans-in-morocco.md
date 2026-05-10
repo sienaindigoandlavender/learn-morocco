@@ -2,7 +2,7 @@
 title: Romans in Morocco
 type: concept
 visibility: private
-tags: [rome, antiquity, mauretania, timeline, volubilis]
+tags: [romans, morocco, mauretania, volubilis, antiquity, timeline]
 ---
 
 # Romans in Morocco
