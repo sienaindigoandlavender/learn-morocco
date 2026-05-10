@@ -11,7 +11,7 @@ For about half a century — from the founding of Tin Mal in the late 1140s to t
 
 > **Map.** → [Almohad Architecture — interactive map](/wiki/maps/almohad-architecture) — Tin Mal, Marrakesh, Rabat, Seville, the Algarve, Tunis. Province polygons show the caliphate at peak; coloured circles distinguish mosques, minarets, gates, fortifications, palaces, and gardens.
 
-For the dynastic backbone see [[the-almohads]].
+For the dynastic backbone see [[the-almohads]]. For the broader Andalusi context see [[al-andalus]] and [[andalus-maghreb-connections]].
 
 ---
 
@@ -111,17 +111,21 @@ What the Almohads did *not* do, on doctrinal grounds, was the figurative ornamen
 ## Maps
 
 → [Almohad Architecture — interactive map](/wiki/maps/almohad-architecture)
+→ [Al-Andalus — interactive map](/wiki/maps/al-andalus) — the political backdrop in Iberia.
+→ [Al-Andalus and the Maghreb — interactive map](/wiki/maps/andalus-maghreb) — the cross-strait flows that produced this architecture.
 → [Amazigh Confederations of Morocco](/wiki/maps/amazigh-confederations) — the Masmuda heartland out of which the dynasty came.
 
 ## Threads Worth Following
 
-- **The Cordoban inheritance.** Almohad mosque plans descend from the 8th-century Cordoba mosque via the 11th-century Almoravid mosque of Tlemcen. The line is unbroken from Abd al-Rahman I to Yacoub al-Mansour.
+- **The Cordoban inheritance.** Almohad mosque plans descend from the 8th-century Cordoba mosque via the 11th-century Almoravid mosque of Tlemcen. The line is unbroken from Abd al-Rahman I to Yacoub al-Mansour. → [[al-andalus]]
 - **The doctrinal sobriety.** The absence of figurative imagery and coloured marble veneer is not a poverty of means — it is a programme. Almohad surfaces are deliberately what late-Almoravid surfaces are not.
-- **The Mudéjar afterlife.** The Castilian and Aragonese kings who took over Almohad cities did not destroy the buildings; in many cases (the Alcázar of Seville being the headline example) they hired the same craftsmen and continued the same idiom for another two centuries.
+- **The Mudéjar afterlife.** The Castilian and Aragonese kings who took over Almohad cities did not destroy the buildings; in many cases (the Alcázar of Seville being the headline example) they hired the same craftsmen and continued the same idiom for another two centuries. → [[andalus-maghreb-connections]]
 - **The Hafsid line.** Tunis after 1229 is the eastern continuation of the Almohad architectural school in a way that Marinid Morocco — with its more figurative, Andalusi-leaning ornament — is not.
 
 ## Reading Further
 
+→ [[al-andalus]]
+→ [[andalus-maghreb-connections]]
 → [[the-almohads]]
 → [[the-almoravids]]
 → [[the-marinids]]
