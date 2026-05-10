@@ -3,7 +3,8 @@ import { logout } from "@/app/wiki/login/actions";
 
 const navItems = [
   { href: "/wiki", label: "Index" },
-  { href: "/wiki/search", label: "Search" },
+  { href: "/wiki/tags", label: "Tags" },
+  { href: "/wiki/search", label: "Search" }
 ];
 
 export function WikiHeader() {
