@@ -9,7 +9,7 @@ tags: [history, timeline, jewish, index]
 
 The Jewish presence in Morocco is one of the longest continuous Jewish histories anywhere outside the Levant — older than Islam in the country, older than the Arabic language in the country, arguably older than the Berber dynasties themselves. To read it cleanly you have to hold two communities in mind at once: the *toshavim*, the ancient indigenous Jews who lived alongside (and sometimes as) Berbers for two thousand years; and the *megorashim*, the Sephardic exiles who arrived after the 1492 expulsion from Spain and the subsequent expulsions from Portugal. The two groups spoke different languages, prayed in different rites, ate different food, and for centuries lived in the same cities without fully merging.
 
-What follows is one cut through that double history.
+What follows is one cut through that double history. For a year-by-year chronology that puts both threads on a single scroll, see [[jewish-morocco-timeline]].
 
 ## First Wave: The *Toshavim* (antiquity – 1492)
 
@@ -22,6 +22,10 @@ The native, Berber-adjacent Jewish community. Probably present from the late Pun
 The Sephardic exiles from Iberia. Arrived in successive waves after the Alhambra Decree of 1492 and the Portuguese forced conversions of 1497. Settled in the northern and Atlantic coastal cities — Tetouan, Tangier, Salé, Fes, Meknes, later Mogador (Essaouira) — and brought with them Judeo-Spanish (Haketía), Sephardic liturgy, and Iberian commercial networks. Slowly absorbed and then dominated the older communities they joined.
 
 → [[jewish-morocco-megorashim]]
+
+## The Two Lines, Year by Year
+
+→ [[jewish-morocco-timeline]] — a dated chronology from the Punic period to the Abraham Accords, with the toshavim and megorashim threads running side by side.
 
 ## Threads That Cross Both
 
