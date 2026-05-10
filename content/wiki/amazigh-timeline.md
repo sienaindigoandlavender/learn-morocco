@@ -9,13 +9,16 @@ tags: [amazigh, berber, timeline, index]
 
 The Amazigh — *Imazighen*, "the free people"; "Berber" is an exonym from the Greek *barbaros*, kept alive by Latin and Arabic — are the indigenous population of North Africa from the Atlantic to the Siwa Oasis. Every dynasty that has ruled Morocco has ruled an Amazigh-majority country. Three of the medieval dynasties were themselves Amazigh. The language was, until 2011, formally invisible in the Moroccan state.
 
-This is a chronology of the Amazigh as a people and a polity, not of the dynasties they happened to live under. For the political timeline see [[timeline-of-morocco]]; for the substrate read across all periods see [[amazigh-substrate]].
+This is a chronology of the Amazigh as a people and a polity, not of the dynasties they happened to live under. For the political timeline see [[timeline-of-morocco]]; for the substrate read across all periods see [[amazigh-substrate]]. For the demographic side of the Andalus story — the conquest of 711 was largely an Amazigh event, the Almoravid and Almohad rescues were Amazigh dynasties — see [[al-andalus]] and [[andalus-maghreb-connections]]. For the Roman period see [[romans-in-morocco]] and [[romans-in-africa]].
 
 A note on names. *Amazigh* (sing.) / *Imazighen* (pl.) is the autonym, increasingly standard in Morocco since 2011. *Berber* remains common in older scholarship and in French and English usage. *Tamazight* is both the language family and, narrowly, the Middle Atlas variety; the three principal Moroccan varieties are Tarifit (Rif), Tamazight (Middle Atlas), and Tashelhit (Souss / Anti-Atlas). The script is *Tifinagh*, descended from the Libyco-Berber alphabet of antiquity.
 
-> **Maps.** Two interactive Mapbox maps accompany this timeline:
-> → [Amazigh Confederations of Morocco](/wiki/maps/amazigh-confederations) — the medieval triad (Sanhaja / Masmuda / Zenata) plus the modern Aït Atta and Aït Yafelman.
-> → [The Amazigh World](/wiki/maps/amazigh-world) — the wider Amazigh geography from the Canaries through the Maghreb to Siwa, with Tuareg territories across the Sahara-Sahel.
+> **Maps.** Interactive Mapbox maps that accompany this timeline:
+> → [Amazigh Confederations of Morocco](/wiki/maps/amazigh-confederations) — Sanhaja / Masmuda / Zenata plus the modern Aït Atta and Aït Yafelman.
+> → [The Amazigh World](/wiki/maps/amazigh-world) — the wider Amazigh geography from the Canaries to Siwa.
+> → [Al-Andalus](/wiki/maps/al-andalus) — the Iberian extension that the 711 conquest opened up.
+> → [Al-Andalus and the Maghreb](/wiki/maps/andalus-maghreb) — the cross-strait flows.
+> → [Almohad Architecture](/wiki/maps/almohad-architecture) — the Masmuda dynasty's monuments from Tin Mal to the Giralda.
 
 ---
 
@@ -32,7 +35,7 @@ A note on names. *Amazigh* (sing.) / *Imazighen* (pl.) is the autonym, increasin
 - **c. 500 BCE** — Earliest [[libyco-berber-script|Libyco-Berber]] inscriptions. The ancestor of [[tifinagh]]. Continuously used in Tuareg communities to the present.
 - **c. 220 BCE [Mauretania]** — The Mauri kingdom in northern Morocco; the Massylii and Masaesyli further east. Independent Amazigh polities trading and warring with Carthage and Rome.
 - **25 BCE – 40 CE [Mauretania]** — [[juba-ii]] rules a client-kingdom of Mauretania from Volubilis. Amazigh dynast, educated in Rome, married to Cleopatra Selene II. The most documented pre-Islamic Amazigh ruler.
-- **40 CE [Roman]** — Caligula assassinates Ptolemy of Mauretania, Juba's son. Annexation as Mauretania Tingitana. Forty-year resistance war led by Aedemon. Roman authority never extends much beyond the coastal plain.
+- **40 CE [Roman]** — Caligula assassinates Ptolemy of Mauretania, Juba's son. Annexation as Mauretania Tingitana. Forty-year resistance war led by Aedemon. Roman authority never extends much beyond the coastal plain. → [[romans-in-morocco]]
 - **c. 250–429 CE [Roman]** — Repeated Amazigh revolts (Bavares, Quinquegentanei, Baquates). The Roman frontier in Morocco contracts. Volubilis is effectively semi-independent under local Amazigh leaders by the late 3rd century.
 - **c. 429–698 CE** — Vandal, then Byzantine, nominal authority on the coast; the interior is Amazigh and partly Christian, partly Jewish, partly traditional. Tribal confederations consolidate: [[sanhaja]] across the Sahara, [[masmuda]] in the Atlas, [[zenata]] in the steppes and Rif.
 
@@ -40,22 +43,24 @@ A note on names. *Amazigh* (sing.) / *Imazighen* (pl.) is the autonym, increasin
 
 - **640s–680s** — Arab armies under Uqba ibn Nafi reach the Atlantic. Symbolic conquest, no settlement. Uqba killed on the return march by the Awraba in 683.
 - **690s** — [[al-kahina]], the Jewish-or-Judaized Amazigh queen of the Jarawa in the Aurès, leads the second great resistance against Hassan ibn al-Nu'man. Defeated c. 703. Her sons convert and lead the Amazigh contingents that will conquer Iberia.
-- **711** — Tariq ibn Ziyad — Amazigh general of the Awraba — leads a mostly Amazigh army across the strait that takes his name (Jabal Tariq → Gibraltar) and conquers Iberia. The conquest of al-Andalus is, demographically, an Amazigh event.
+- **711** — Tariq ibn Ziyad — Amazigh general of the Awraba — leads a mostly Amazigh army across the strait that takes his name (Jabal Tariq → Gibraltar) and conquers Iberia. The conquest of al-Andalus is, demographically, an Amazigh event. → [[al-andalus]], [[andalus-maghreb-connections]]
 - **740–743 [Kharijite Revolt]** — Maysara al-Matghari leads the great Amazigh revolt against Umayyad Arab tax discrimination. The revolt becomes Kharijite in doctrine and breaks Umayyad authority west of Ifriqiya. Independent Amazigh statelets emerge: the Midrarids at Sijilmasa (757), the Barghawata on the Atlantic plain (744), the Rustamids at Tahert (777).
 - **788** — [[the-idrisids|Idris I]], an Arab Sharifian fugitive, is adopted by the Awraba Amazigh confederation at Volubilis and proclaimed imam. The first Moroccan state is an Arab figurehead on an Amazigh political base. The pattern recurs.
 
 ## The Berber Empires (1050 – 1465)
 
 - **1040s [Almoravid origins]** — Abdallah ibn Yasin begins teaching among the Lamtuna and Gudala, Sanhaja confederations of the western Sahara. The veiled Saharan Amazigh — the *al-mulaththamun*, "the veiled ones" — become a religious-military movement.
-- **1062** — [[the-almoravids|Almoravids]] under Yusuf ibn Tashfin found Marrakesh. By 1090 they rule from Senegal to the Ebro. The first time an Amazigh dynasty rules both Maghreb and al-Andalus.
+- **1062** — [[the-almoravids|Almoravids]] under Yusuf ibn Tashfin found Marrakesh. By 1090 they rule from Senegal to the Ebro. The first time an Amazigh dynasty rules both Maghreb and al-Andalus. → [[al-andalus]]
 - **c. 1120 [Almohad origins]** — Ibn Tumart, a Masmuda from the High Atlas, proclaims the Almohad doctrine at [[tinmel-mosque|Tinmel]]. The shift from Sanhaja (desert, veiled, Maliki) to Masmuda (mountain, sedentary, doctrinaire) Amazigh leadership.
-- **1147** — [[the-almohads|Almohads]] take Marrakesh. At its height under Yacoub al-Mansour (r. 1184–1199) the empire runs from Tripoli to Lisbon. The Almohad period is the demographic and political peak of Amazigh North Africa.
+- **1147** — [[the-almohads|Almohads]] take Marrakesh. At its height under Yacoub al-Mansour (r. 1184–1199) the empire runs from Tripoli to Lisbon. The Almohad period is the demographic and political peak of Amazigh North Africa. The architectural programme runs unbroken across the empire — see [[almohad-architecture]].
 - **1212** — Las Navas de Tolosa. Almohad defeat in Iberia. Beginning of the long retreat.
 - **1269** — [[the-marinids]], a Zenata confederation from the eastern steppe, take Marrakesh. The third and last Berber empire. By the late 14th century it is in steep decline; the Wattasids (also Zenata) hold a rump state from 1465 to 1554.
 
 ## Sharifian Eclipse and the Amazigh Interior (1465 – 1912)
 
+- **1492** — Granada falls. The Andalusi exile waves enter Morocco — Tetouan and Chefchaouen are refounded by Granadan refugees, Fez's Andalusi quarter swells. → [[andalus-maghreb-connections]]
 - **1554 [Saadian]** — [[the-saadians]], an Arab-Sharifian dynasty, take power. End of seven centuries of nominal Amazigh dynastic rule. The Atlas, the Rif, the Souss, and the desert remain Amazigh-administered in practice.
+- **1609–1614 [Morisco expulsion]** — The expelled Moriscos arrive in Salé, Rabat, Tetouan, Fez. The Salé corsair republic is their Andalusi statelet on the Bouregreg. → [[andalus-maghreb-connections]]
 - **1666 [Alaouite]** — A second Arab-Sharifian dynasty, [[the-alaouites]], succeeds. The pattern of the next two and a half centuries: a Sharifian sultanate in the imperial cities, a constellation of Amazigh tribal polities in the *bled es-siba* — "the land of dissidence" — that pays no tax and accepts no garrison.
 - **1672–1727 [Alaouite]** — Moulay Ismail's *abid* — black slave army — is built partly to bypass Amazigh tribal levies. The relationship between makhzen and Amazigh tribes is set on its long, tense template here.
 - **1893 [Rif]** — First Spanish military setback against Rifian Amazigh forces at Melilla. The Rif's hundred-year war with Spain begins.
@@ -94,18 +99,27 @@ A note on names. *Amazigh* (sing.) / *Imazighen* (pl.) is the autonym, increasin
 
 ## Maps
 
-→ [Amazigh Confederations of Morocco](/wiki/maps/amazigh-confederations) — interactive map of Sanhaja, Masmuda, Zenata, Ghomara, Aït Atta, Aït Yafelman.
-→ [The Amazigh World](/wiki/maps/amazigh-world) — interactive map of Amazigh-speaking regions across Morocco, Algeria, Tunisia, Libya, Egypt, Mali, Niger, Burkina Faso, Mauritania, and the Canary Islands.
+→ [Amazigh Confederations of Morocco](/wiki/maps/amazigh-confederations) — Sanhaja, Masmuda, Zenata, Ghomara, Aït Atta, Aït Yafelman.
+→ [The Amazigh World](/wiki/maps/amazigh-world) — Amazigh-speaking regions across eleven countries.
+→ [Al-Andalus](/wiki/maps/al-andalus) — the Iberian Amazigh extension.
+→ [Al-Andalus and the Maghreb](/wiki/maps/andalus-maghreb) — the cross-strait flows.
+→ [Almohad Architecture](/wiki/maps/almohad-architecture) — the Masmuda dynasty's monuments.
 
 ## Threads Worth Following
 
 - **Language.** Three Moroccan varieties (Tarifit, Tamazight, Tashelhit) plus the Saharan Tuareg branch. Mutual intelligibility is partial. → [[tamazight-language]]
 - **Script.** Libyco-Berber → Tifinagh → IRCAM-Tifinagh, with Tuareg maintaining a continuous tradition. → [[tifinagh]]
 - **Polity.** The dialectic of *bled el-makhzen* (state) and *bled es-siba* (autonomy) structures Moroccan history. → [[bled-el-makhzen-vs-bled-es-siba]]
+- **The Andalus arc.** From the 711 conquest to the 1609 Morisco expulsion, the strait is a hinge: Amazigh armies cross north, Andalusi refugees come south, an entire culture spreads on both shores. → [[al-andalus]], [[andalus-maghreb-connections]]
 - **Religion.** Amazigh Christianity (Donatist), Amazigh Judaism (toshavim), Kharijite and Shia heterodoxies, Sufi orders, and the dominant Maliki Sunnism — the Amazigh substrate has been religiously plural at every period. → [[amazigh-substrate]], [[jewish-morocco-toshavim]]
 
 ## Reading Further
 
+→ [[al-andalus]]
+→ [[andalus-maghreb-connections]]
+→ [[almohad-architecture]]
+→ [[romans-in-morocco]]
+→ [[romans-in-africa]]
 → [[timeline-of-morocco]]
 → [[architectural-timeline]]
 → [[jewish-morocco-timeline]]

@@ -13,6 +13,8 @@ The distinctive thing about Roman Morocco is how shallow it was. Rome never exte
 
 > **Map.** → [Romans in Morocco — interactive map](/wiki/maps/romans-in-morocco) — the province at peak extent, the reduced late-Roman strip, the Byzantine toehold at Septem, and the principal sites.
 
+For the continental Roman picture see [[romans-in-africa]]. For the Mauri substrate — always the population beneath the Roman administrative skin — see [[amazigh-timeline]] and [[amazigh-substrate]]. For the medieval Andalus continuation across the strait that the Romans had also straddled, see [[al-andalus]] and [[andalus-maghreb-connections]].
+
 ---
 
 ## Before the Province (c. 200 BCE – 40 CE)
@@ -45,7 +47,7 @@ The distinctive thing about Roman Morocco is how shallow it was. Rome never exte
 - **429 CE [Vandals]** — Genseric crosses from Spain at Tingis with c. 80,000 Vandals and Alans, marches east to Carthage (which falls 439). Tingitana is briefly under Vandal authority but is not a Vandal core territory; effective control reverts to local Mauri-Roman elites.
 - **533 CE [Byzantine reconquest]** — Belisarius recovers Vandal Africa for Justinian. Byzantine authority in northwestern Morocco amounts to the garrison at Septem (Ceuta), perhaps Tingis briefly, and a few coastal points.
 - **late 6th c.** — Septem passes to the Visigoths of Spain.
-- **c. 711 CE [Arab conquest]** — Musa ibn Nusayr's lieutenant Tariq ibn Ziyad takes Tingis and crosses to Iberia. End of the Roman → Byzantine → Visigothic continuum on the African shore of the strait.
+- **c. 711 CE [Arab conquest]** — Musa ibn Nusayr's lieutenant Tariq ibn Ziyad takes Tingis and crosses to Iberia. End of the Roman → Byzantine → Visigothic continuum on the African shore of the strait. The cross-strait link continues unbroken under new management. → [[al-andalus]], [[andalus-maghreb-connections]]
 
 ---
 
@@ -53,6 +55,8 @@ The distinctive thing about Roman Morocco is how shallow it was. Rome never exte
 
 → [Romans in Morocco — interactive map](/wiki/maps/romans-in-morocco)
 → [Romans in Africa — continental map](/wiki/maps/romans-in-africa)
+→ [Al-Andalus](/wiki/maps/al-andalus) — the medieval Iberian successor.
+→ [Al-Andalus and the Maghreb](/wiki/maps/andalus-maghreb) — the cross-strait connection that survived the Roman withdrawal.
 
 ## Sites Worth Visiting
 
@@ -65,13 +69,16 @@ The distinctive thing about Roman Morocco is how shallow it was. Rome never exte
 ## Threads Worth Following
 
 - **The Amazigh substrate.** Mauretania Tingitana is laid over a Mauri tribal landscape that long predates Rome and outlasts it. → [[amazigh-timeline]], [[amazigh-substrate]]
-- **The Hispania connection.** Roman Morocco is administered from Spain across the strait — a geographic logic the Visigoths, the Almoravids, the Marinids, and Spanish Morocco all rediscover. → [[strait-of-gibraltar]]
+- **The Hispania connection.** Roman Morocco is administered from Spain across the strait — a geographic logic the Visigoths, the Almoravids, the Marinids, and Spanish Morocco all rediscover. → [[al-andalus]], [[andalus-maghreb-connections]], [[strait-of-gibraltar]]
 - **The frontier as treaty zone.** The Volubilis altars are the headline document of how Rome actually managed barbarian-frontier relationships when garrisoning was not an option.
 
 ## Reading Further
 
-→ [[timeline-of-morocco]]
+→ [[romans-in-africa]]
+→ [[al-andalus]]
+→ [[andalus-maghreb-connections]]
 → [[amazigh-timeline]]
+→ [[timeline-of-morocco]]
 → [[architectural-timeline]]
 → [[juba-ii]]
 → [[volubilis]]

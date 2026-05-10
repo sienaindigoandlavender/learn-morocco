@@ -11,7 +11,7 @@ Rome ruled some part of the African continent continuously for roughly seven and
 
 > **Map.** → [Romans in Africa — interactive map](/wiki/maps/romans-in-africa) — the seven provinces, the legionary bases, and the principal cities, color-coded by function.
 
-For the Moroccan slice in detail see [[romans-in-morocco]].
+For the Moroccan slice in detail see [[romans-in-morocco]]. For what came after Carthage — the Arab conquest, the rise of the Berber dynasties, and the Andalusi connection — see [[al-andalus]], [[andalus-maghreb-connections]], and [[amazigh-timeline]].
 
 ---
 
@@ -70,7 +70,7 @@ Rome's African story is a long aftermath of Carthage's. Phoenician traders from 
 - **647 CE [Sufetula]** — First Arab raid into Byzacena. The Exarch Gregory killed at the **Battle of Sufetula**. Carthage holds for another half-century.
 - **670 CE** — Foundation of **Kairouan** by Uqba ibn Nafi as the Arab base for the conquest of the Maghreb.
 - **698 CE** — Hassan ibn al-Nu'man takes **Carthage**, the great Roman-Byzantine capital, and dismantles its harbor. End of the Roman presence in Africa Proconsularis.
-- **c. 711 CE** — Septem (Ceuta), the last Roman-Byzantine outpost on the southern shore of the strait, falls. Tariq ibn Ziyad crosses to Iberia.
+- **c. 711 CE** — Septem (Ceuta), the last Roman-Byzantine outpost on the southern shore of the strait, falls. Tariq ibn Ziyad crosses to Iberia. → [[al-andalus]], [[andalus-maghreb-connections]]
 
 ---
 
@@ -78,6 +78,9 @@ Rome's African story is a long aftermath of Carthage's. Phoenician traders from 
 
 → [Romans in Africa — interactive map](/wiki/maps/romans-in-africa)
 → [Romans in Morocco — zoomed interactive map](/wiki/maps/romans-in-morocco)
+→ [Al-Andalus](/wiki/maps/al-andalus) — the medieval Iberian successor.
+→ [Al-Andalus and the Maghreb](/wiki/maps/andalus-maghreb) — cross-strait flows that the Romans had also straddled.
+→ [Almohad Architecture](/wiki/maps/almohad-architecture) — the architectural school that built Almohad-era Roman-foundation cities like Sala and Carthage.
 
 ## The Seven Provinces (c. 200 CE)
 
@@ -97,11 +100,13 @@ Rome's African story is a long aftermath of Carthage's. Phoenician traders from 
 - **African Christianity.** The Latin Christian tradition is largely an African invention — Tertullian (Carthage), Cyprian (Carthage), Augustine (Hippo), the Donatist movement, the early martyr-acts. → [[augustine-of-hippo]]
 - **The African emperors.** Septimius Severus and the Severan dynasty are the watershed: an African ruling house remakes Rome's monumental and legal landscape. → [[severans]]
 - **The Berber substrate.** Mauri / Numidian / Garamantian polities are not extras to the Roman story — they are the population, before, during, and after. → [[amazigh-timeline]]
-- **The Arab conquest.** From Egypt 641 to Ceuta c. 711, the Roman-Byzantine arc collapses in seventy years. → [[arab-conquest]]
+- **The Arab conquest.** From Egypt 641 to Ceuta c. 711, the Roman-Byzantine arc collapses in seventy years. → [[arab-conquest]], [[al-andalus]]
 
 ## Reading Further
 
 → [[romans-in-morocco]]
+→ [[al-andalus]]
+→ [[andalus-maghreb-connections]]
 → [[amazigh-timeline]]
 → [[timeline-of-morocco]]
 → [[volubilis]]
