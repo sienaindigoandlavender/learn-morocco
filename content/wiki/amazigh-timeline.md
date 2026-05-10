@@ -13,6 +13,10 @@ This is a chronology of the Amazigh as a people and a polity, not of the dynasti
 
 A note on names. *Amazigh* (sing.) / *Imazighen* (pl.) is the autonym, increasingly standard in Morocco since 2011. *Berber* remains common in older scholarship and in French and English usage. *Tamazight* is both the language family and, narrowly, the Middle Atlas variety; the three principal Moroccan varieties are Tarifit (Rif), Tamazight (Middle Atlas), and Tashelhit (Souss / Anti-Atlas). The script is *Tifinagh*, descended from the Libyco-Berber alphabet of antiquity.
 
+> **Maps.** Two interactive Mapbox maps accompany this timeline:
+> → [Amazigh Confederations of Morocco](/wiki/maps/amazigh-confederations) — the medieval triad (Sanhaja / Masmuda / Zenata) plus the modern Aït Atta and Aït Yafelman.
+> → [The Amazigh World](/wiki/maps/amazigh-world) — the wider Amazigh geography from the Canaries through the Maghreb to Siwa, with Tuareg territories across the Sahara-Sahel.
+
 ---
 
 ## Deep Prehistory (before c. 10,000 BCE)
@@ -87,6 +91,11 @@ A note on names. *Amazigh* (sing.) / *Imazighen* (pl.) is the autonym, increasin
 - **8 September 2023 [Earthquake]** — Al Haouz earthquake centered in the High Atlas; the worst-hit villages are Tashelhit-speaking. Reconstruction becomes a live test of Amazigh political voice in the post-2011 settlement.
 
 ---
+
+## Maps
+
+→ [Amazigh Confederations of Morocco](/wiki/maps/amazigh-confederations) — interactive map of Sanhaja, Masmuda, Zenata, Ghomara, Aït Atta, Aït Yafelman.
+→ [The Amazigh World](/wiki/maps/amazigh-world) — interactive map of Amazigh-speaking regions across Morocco, Algeria, Tunisia, Libya, Egypt, Mali, Niger, Burkina Faso, Mauritania, and the Canary Islands.
 
 ## Threads Worth Following
 
